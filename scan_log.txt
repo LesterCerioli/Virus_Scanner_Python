@@ -1,0 +1,18 @@
+
+2024-07-14 06:10:41 - Iniciando a varredura rápida via prompt de comando...
+2024-07-14 06:10:45 - Ocorreu um erro durante a varredura: Start-MpScan : A scan is already in progress on this 
+device.
+At line:1 char:1
++ Start-MpScan -ScanType QuickScan
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : MetadataError: (MSFT_MpSc 
+   an:ROOT\Microsoft\...der\MSFT_MpScan) [Start-MpScan  
+  ], CimException
+    + FullyQualifiedErrorId : MI RESULT 16,Start-MpScan Duração: 3.64 segundos.
+2024-07-14 06:13:43 - Iniciando a varredura rápida via prompt de comando...
+2024-07-14 06:14:23 - A varredura rápida foi concluída com sucesso. Duração: 39.98 segundos.
+2024-07-14 06:19:23 - Iniciando a varredura rápida via prompt de comando...
+2024-07-14 06:20:03 - A varredura rápida foi concluída com sucesso. Duração: 40.33 segundos.
+2024-07-14 06:24:09 - Starting quick scan via command prompt...
+2024-07-14 06:24:48 - Quick scan completed successfully. Duration: 38.98 seconds.
+2024-07-14 06:46:40 - Starting full virus scan via command prompt...
